@@ -1,0 +1,6 @@
+{
+  "name": "AstroConnect",
+  "description": "Indian Astrology Platform MVP with Horoscopes, Kundli, and simulated Consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
